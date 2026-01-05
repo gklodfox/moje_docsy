@@ -107,7 +107,17 @@
     > - [ ] (0h45m) Develop and Secure APIs with Apigee X  
     > - [ ] (1h00m) Deploy and Manage Apigee X  
     > 
-- [ ] **10. (19h30m) [Generative AI for Machine Learning Engineers](https://partner.skills.google/paths/164)**
+- [ ] **10. (18h30m) [Introduction to Generative AI](https://partner.skills.google/paths/119)**
+    >
+    > - [ ] (1h45m) Generative AI for Business Leaders  
+    > - [ ] (0h15m) Introduction to Responsible AI  
+    > - [ ] (2h00m) Responsible AI: Applying AI Principles with Google Cloud  
+    > - [ ] (2h00m) Introduction to Vertex AI Studio  
+    > - [ ] (8h00m) Text Prompt Engineering Techniques  
+    > - [ ] (4h00m) Boost Productivity with Gemini in BigQuery  
+    > - [ ] (0h30m) Generative AI Fundamentals  
+    > 
+- [ ] **11. (19h30m) [Generative AI for Machine Learning Engineers](https://partner.skills.google/paths/164)**
     >
     > - [ ] (0h30m) Attention Mechanism  
     > - [ ] (0h30m) Encoder-Decoder Architecture  
