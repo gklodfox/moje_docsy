@@ -2,26 +2,26 @@
 
 ## Paths:
 
-### 1. (6h30m) [Intelligent Search: Configuring and Improving Search Results](https://partner.skills.google/paths/2302)
+### - [ ]1. (6h30m) [Intelligent Search: Configuring and Improving Search Results](https://partner.skills.google/paths/2302)
 >
 > - [ ] (1h00m) Vertex AI Search and Gemini Enterprise UI Configurations  
 > - [ ] (0h30m) Vertex AI Search and Gemini Enterprise Analytics  
 > - [ ] (3h30m) Improve Vertex AI Search and Gemini Enterprise Search Results  
 > - [ ] (1h30m) Configure AI Applications to optimize search results
 >
-### 2. (8h30m) [Evaluating Model and Agent Performance](https://partner.skills.google/paths/2311)
+### - [ ]2. (8h30m) [Evaluating Model and Agent Performance](https://partner.skills.google/paths/2311)
 >
 > - [ ] (1h30m) Model evaluation on Vertex AI  
 > - [ ] (2h30m) Machine Learning Operations with Vertex AI: Model Evaluation  
 > - [ ] (2h00m) Evaluate ADK Agents with Vertex AI Gen AI Evaluation Service  
 > - [ ] (2h00m) Evaluate Gen AI model and agent performance
 >
-### 3. (2h00m) [Inference on TPUs](https://partner.skills.google/paths/3311)
+### - [ ]3. (2h00m) [Inference on TPUs](https://partner.skills.google/paths/3311)
 >
 > - [ ] (1h00m) Architecting an AI Inference Stack  
 > - [ ] (1h00m) How to Use TPUs for Inference  
 >
-### 4. (64h30m) [DevSecOps](https://partner.skills.google/paths/101)
+### - [ ]4. (64h30m) [DevSecOps](https://partner.skills.google/paths/101)
 >
 > - [ ] (5h45m) Getting Started with Google Kubernetes Engine  
 > - [ ] (6h30m) Architecting with Google Kubernetes Engine: Workloads  
@@ -35,7 +35,7 @@
 > - [ ] (3h30m) DevOps Essentials  
 > - [ ] (2h00m) Google Kubernetes Engine Best Practices: Security  
 >
-### 5. (56h30m) [Generative AI for Developers](https://partner.skills.google/paths/165)
+### - [ ]5. (56h30m) [Generative AI for Developers](https://partner.skills.google/paths/165)
 >
 > - [ ] (1h45m) Explore Generative AI with the Gemini API in Vertex AI  
 > - [ ] (4h00m) Vector Search and Embeddings  
@@ -49,7 +49,7 @@
 > - [ ] (8h00m) Develop Advanced Enterprise Search and Conversation Applications  
 > - [ ] (6h00m) Empower Gen AI apps with tool use  
 >
-### 6. (38h30m) [Generative AI Specialization: Certification & Skill Badge Requirements](https://partner.skills.google/paths/422)
+### - [ ]6. (38h30m) [Generative AI Specialization: Certification & Skill Badge Requirements](https://partner.skills.google/paths/422)
 >
 > - [ ] (2h00m) Responsible AI: Applying AI Principles with Google Cloud  
 > - [ ] (1h30m) Extend Gemini with controlled generation and Tool use  
@@ -65,7 +65,7 @@
 > - [ ] (8h00m) Text Prompt Engineering Techniques  
 > - [ ] (8h00m) Develop Advanced Enterprise Search and Conversation Applications  
 >
-### 7. (47h15m) [Professional Cloud DevOps Engineer Certification](https://partner.skills.google/paths/83)
+### - [ ]7. (47h15m) [Professional Cloud DevOps Engineer Certification](https://partner.skills.google/paths/83)
 >
 > - [ ] (5h00m) Google Cloud Fundamentals: Core Infrastructure  
 > - [ ] (8h00m) Developing a Google SRE Culture  
@@ -77,7 +77,7 @@
 > - [ ] (1h15m) Monitor and Log with Google Cloud Observability  
 > - [ ] (1h45m) Build Infrastructure with Terraform on Google Cloud  
 >
-### 8. (104h30m) [Professional Machine Learning Engineer](https://partner.skills.google/paths/84)
+### - [ ]8. (104h30m) [Professional Machine Learning Engineer](https://partner.skills.google/paths/84)
 >
 > - [ ] (8h00m) Introduction to AI and Machine Learning on Google Cloud  
 > - [ ] (1h30m) Prepare Data for ML APIs on Google Cloud  
@@ -98,7 +98,7 @@
 > - [ ] (3h00m) Responsible AI for Developers: Interpretability & Transparency  
 > - [ ] (5h00m) Responsible AI for Developers: Privacy & Safety  
 >
-### 9. (62h45m) [API Developer](https://partner.skills.google/paths/99)
+### - [ ]9. (62h45m) [API Developer](https://partner.skills.google/paths/99)
 >
 > - [ ] (5h00m) Google Cloud Fundamentals: Core Infrastructure  
 > - [ ] (8h00m) API Design and Fundamentals of Google Cloud's Apigee API Platform  
@@ -107,7 +107,7 @@
 > - [ ] (0h45m) Develop and Secure APIs with Apigee X  
 > - [ ] (1h00m) Deploy and Manage Apigee X  
 > 
-### 10. (18h30m) [Introduction to Generative AI](https://partner.skills.google/paths/119)
+### - [ ]10. (18h30m) [Introduction to Generative AI](https://partner.skills.google/paths/119)
 >
 > - [ ] (1h45m) Generative AI for Business Leaders  
 > - [ ] (0h15m) Introduction to Responsible AI  
@@ -117,7 +117,7 @@
 > - [ ] (4h00m) Boost Productivity with Gemini in BigQuery  
 > - [ ] (0h30m) Generative AI Fundamentals  
 > 
-### 11. (19h30m) [Generative AI for Machine Learning Engineers](https://partner.skills.google/paths/164)
+### - [ ]11. (19h30m) [Generative AI for Machine Learning Engineers](https://partner.skills.google/paths/164)
 >
 > - [ ] (0h30m) Attention Mechanism  
 > - [ ] (0h30m) Encoder-Decoder Architecture  
