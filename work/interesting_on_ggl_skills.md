@@ -117,7 +117,7 @@
 > - [ ] (4h00m) Boost Productivity with Gemini in BigQuery  
 > - [ ] (0h30m) Generative AI Fundamentals  
 > 
-- [ ] ### 11. (19h30m) [Generative AI for Machine Learning Engineers](https://partner.skills.google/paths/164)
+- [ ] **11. (19h30m) [Generative AI for Machine Learning Engineers](https://partner.skills.google/paths/164)**
 >
 > - [ ] (0h30m) Attention Mechanism  
 > - [ ] (0h30m) Encoder-Decoder Architecture  
