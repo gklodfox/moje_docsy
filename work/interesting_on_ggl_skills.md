@@ -129,10 +129,10 @@
     > - [ ] (8h00m) Develop Advanced Enterprise Search and Conversation Applications  
     > - [ ] (5h00m) Integrate Vertex AI Search and Conversation into Voice and Chat Apps  
     >
-- [ ] **12. (2h30m) [DevOps Essentials](https://partner.skills.google/course_templates/717)**
+- [x] **12. (2h30m) [DevOps Essentials](https://partner.skills.google/course_templates/717)**
     >
-    > - [ ] (0h02m) Accelerate the State of DevOps 2019
-    > - [ ] (0h30m) Artifact Registry: Qwik Start
-    > - [ ] (0h25m) Zarządzanie wdrożeniami przy użyciu Kubernetes Engine
-    > - [ ] (0h15m) Wdrażanie usługi systemu równoważenia obciążenia Kubernetes za pomocą Terraform
-    > - [ ] (1h00m) Continuous Delivery with Jenkins in Kubernetes Engine
+    > - [x] (0h02m) Accelerate the State of DevOps 2019
+    > - [x] (0h30m) Artifact Registry: Qwik Start
+    > - [x] (0h25m) Zarządzanie wdrożeniami przy użyciu Kubernetes Engine
+    > - [x] (0h15m) Wdrażanie usługi systemu równoważenia obciążenia Kubernetes za pomocą Terraform
+    > - [x] (1h00m) Continuous Delivery with Jenkins in Kubernetes Engine
