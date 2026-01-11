@@ -136,10 +136,11 @@
     > - [x] (0h25m) Zarządzanie wdrożeniami przy użyciu Kubernetes Engine
     > - [x] (0h15m) Wdrażanie usługi systemu równoważenia obciążenia Kubernetes za pomocą Terraform
     > - [x] (1h00m) Continuous Delivery with Jenkins in Kubernetes Engine
+    >
 - [x] **13. (86h15m) [Beginner: Google Cloud Cybersecurity Certificate](https://www.skills.google/paths/419)**
     >
-    > - [x] (xhxxm) Introduction to Security Principles in Cloud Computing
-    > - [x] (21h45m) Strategies for Cloud Security Risk Management
-    > - [x] (28h00m) Cloud Security Risks: Identify and Protect Against Threats
-    > - [x] (26h15m) Cloud Security Risks: Identify and Protect Against Threats
-    > - [x] (11h00m) Put It All Together: Prepare for a Cloud Security Analyst Job
+    > - [ ] (xhxxm) Introduction to Security Principles in Cloud Computing
+    > - [ ] (21h45m) Strategies for Cloud Security Risk Management
+    > - [ ] (28h00m) Cloud Security Risks: Identify and Protect Against Threats
+    > - [ ] (26h15m) Cloud Security Risks: Identify and Protect Against Threats
+    > - [ ] (11h00m) Put It All Together: Prepare for a Cloud Security Analyst Job
