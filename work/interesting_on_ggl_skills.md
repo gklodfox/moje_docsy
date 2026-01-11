@@ -51,7 +51,7 @@
     >
 - [ ] **6. (38h30m) [Generative AI Specialization: Certification & Skill Badge Requirements](https://partner.skills.google/paths/422)**
     >
-    > - [ ] (2h00m) Responsible AI: Applying AI Principles with Google Cloud  
+    > - [x] (2h00m) Responsible AI: Applying AI Principles with Google Cloud  
     > - [ ] (1h30m) Extend Gemini with controlled generation and Tool use  
     > - [ ] (1h30m) Deploy and Evaluate Model Garden Models  
     > - [ ] (1h30m) Edit images with Imagen  
