@@ -112,16 +112,16 @@
     > - [x] (1h45m) Generative AI for Business Leaders  
     > - [x] (0h15m) Introduction to Responsible AI  
     > - [x] (2h00m) Responsible AI: Applying AI Principles with Google Cloud  
-    > - [x] (2h00m) Introduction to Vertex AI Studio  
+    > - [ ] (2h00m) Introduction to Vertex AI Studio  
     > - [ ] (8h00m) Text Prompt Engineering Techniques  
     > - [ ] (4h00m) Boost Productivity with Gemini in BigQuery  
     > - [ ] (0h30m) Generative AI Fundamentals  
     > 
 - [ ] **11. (19h30m) [Generative AI for Machine Learning Engineers](https://partner.skills.google/paths/164)**
     >
-    > - [ ] (0h30m) Attention Mechanism  
-    > - [ ] (0h30m) Encoder-Decoder Architecture  
-    > - [ ] (0h30m) Transformer Models and BERT Model  
+    > - [x] (0h30m) Attention Mechanism  
+    > - [x] (0h30m) Encoder-Decoder Architecture  
+    > - [x] (0h30m) Transformer Models and BERT Model  
     > - [ ] (0h30m) Introduction to Image Generation  
     > - [ ] (0h30m) Create Image Captioning Models  
     > - [ ] (4h00m) Vector Search and Embeddings  
