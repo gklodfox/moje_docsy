@@ -112,7 +112,7 @@
     > - [x] (1h45m) Generative AI for Business Leaders  
     > - [x] (0h15m) Introduction to Responsible AI  
     > - [x] (2h00m) Responsible AI: Applying AI Principles with Google Cloud  
-    > - [ ] (2h00m) Introduction to Vertex AI Studio  
+    > - [x] (2h00m) Introduction to Vertex AI Studio  
     > - [ ] (8h00m) Text Prompt Engineering Techniques  
     > - [ ] (4h00m) Boost Productivity with Gemini in BigQuery  
     > - [ ] (0h30m) Generative AI Fundamentals  
