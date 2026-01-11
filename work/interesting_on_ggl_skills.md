@@ -139,7 +139,7 @@
     >
 - [x] **13. (86h15m) [Beginner: Google Cloud Cybersecurity Certificate](https://www.skills.google/paths/419)**
     >
-    > - [ ] (xhxxm) Introduction to Security Principles in Cloud Computing
+    > - [x] (xhxxm) Introduction to Security Principles in Cloud Computing
     > - [ ] (21h45m) Strategies for Cloud Security Risk Management
     > - [ ] (28h00m) Cloud Security Risks: Identify and Protect Against Threats
     > - [ ] (26h15m) Cloud Security Risks: Identify and Protect Against Threats
